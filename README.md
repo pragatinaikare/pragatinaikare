@@ -1,4 +1,4 @@
-# 👩‍💻 Pragati Naikare  
+# 👩‍💻 Hi, I'm Pragati Naikare  
 
 <img src="IMG_3164.JPG" alt="Pragati Naikare" width="200" align="right" style="border-radius:15px;"/>
 
