@@ -20,7 +20,7 @@ I am a **Data Scientist at Tesla Inc.** with **3+ years of experience** deliveri
 
 ---
 
-Connect with me:
+## Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PragatiNaikare-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatin/)  
 [![GitHub](https://img.shields.io/badge/GitHub-pragatinaikare-black?logo=github)](https://github.com/pragatinaikare)  
 [![Email](https://img.shields.io/badge/Email-pragatinaikare241%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pragatinaikare241@gmail.com)  
