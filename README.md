@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-pragatinaikare241%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pragatinaikare241@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=google-chrome&logoColor=black)](https://pragatinaikare.wixsite.com/website-2)  
 
-![Profile views](https://komarev.com/ghpvc/?username=NaikareAPragati)
+![Profile views](https://komarev.com/ghpvc/?username=pragatinaikare)
 
 ---
 
