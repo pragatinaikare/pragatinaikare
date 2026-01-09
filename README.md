@@ -2,12 +2,6 @@
 
 <img src="IMG_3164.JPG" alt="Pragati Naikare" width="200" align="right" style="border-radius:15px;"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PragatiNaikare-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatin/)  
-[![GitHub](https://img.shields.io/badge/GitHub-pragatinaikare-black?logo=github)](https://github.com/pragatinaikare)  
-[![Email](https://img.shields.io/badge/Email-pragatinaikare241%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pragatinaikare241@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=google-chrome&logoColor=black)](https://pragatinaikare.wixsite.com/website-2)  
-
-![Profile views](https://komarev.com/ghpvc/?username=pragatinaikare)
 
 ---
 
@@ -20,8 +14,16 @@ I am a **Data Scientist at Tesla Inc.** with **3+ years of experience** deliveri
 - 📊 Strong academic foundation: **MS in Data Science** (Texas A&M, GPA 4.0) and **Gold Medalist in Computer Science Engineering** (Pune University).  
 - 🏅 Recognized with **Texas A&M Merit Scholarship** and university **Gold Medal** for academic and professional excellence.  
 - 📄 Published research in NLP & ASR systems, with ongoing collaborations in **computer vision** and **Generative AI**.  
+![Profile views](https://komarev.com/ghpvc/?username=pragatinaikare)
 
 ---
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PragatiNaikare-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatin/)  
+[![GitHub](https://img.shields.io/badge/GitHub-pragatinaikare-black?logo=github)](https://github.com/pragatinaikare)  
+[![Email](https://img.shields.io/badge/Email-pragatinaikare241%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pragatinaikare241@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=google-chrome&logoColor=black)](https://pragatinaikare.wixsite.com/website-2)  
+
 
 ## 🛠️ Technical Skills  
 
