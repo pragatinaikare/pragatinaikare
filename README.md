@@ -31,7 +31,7 @@ I am a **Data Scientist at Tesla Inc.** with **3+ years of experience** deliveri
 
 - **Languages:** Python, SQL, NoSQL, Postgres  
 - **Frameworks:** PyTorch, TensorFlow, Scikit-learn, LangChain, Spark  
-- **MLOps & Tools:** Airflow, Docker, Kubernetes, MLflow, GitHub Actions  
+- **MLOps & Tools:** Airflow, Docker, Kubernetes, MLflow, GitHub Actions, Splunk, Jenkins, Grafana
 - **Specialties:** LLM Fine-Tuning, Prompt Engineering, RAG, Vector DBs, Quantization  
 - **Cloud & Big Data:** AWS, Snowflake, Kafka, RAPIDS  
 
