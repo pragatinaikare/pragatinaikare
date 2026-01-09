@@ -7,6 +7,7 @@
 
 ## 📖 About Me  
 
+
 I am a **Data Scientist at Tesla Inc.** with **3+ years of experience** delivering scalable **Machine Learning** and **Generative AI** solutions across automotive, finance, and healthcare domains.  
 
 - 🚗 At Tesla, I’ve built real-time **sales prioritization models** and **personalized outreach systems**, improving order rates by up to **+4pp** and reducing unsubscribe rates by **61%**.  
@@ -14,6 +15,7 @@ I am a **Data Scientist at Tesla Inc.** with **3+ years of experience** deliveri
 - 📊 Strong academic foundation: **MS in Data Science** (Texas A&M, GPA 4.0) and **Gold Medalist in Computer Science Engineering** (Pune University).  
 - 🏅 Recognized with **Texas A&M Merit Scholarship** and university **Gold Medal** for academic and professional excellence.  
 - 📄 Published research in NLP & ASR systems, with ongoing collaborations in **computer vision** and **Generative AI**.  
+
 ![Profile views](https://komarev.com/ghpvc/?username=pragatinaikare)
 
 ---
