@@ -20,11 +20,6 @@ I am a **Data Scientist at Tesla Inc.** with **3+ years of experience** deliveri
 
 ---
 
-## Connect with me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PragatiNaikare-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatin/)  
-[![GitHub](https://img.shields.io/badge/GitHub-pragatinaikare-black?logo=github)](https://github.com/pragatinaikare)  
-[![Email](https://img.shields.io/badge/Email-pragatinaikare241%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pragatinaikare241@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=google-chrome&logoColor=black)](https://pragatinaikare.wixsite.com/website-2)  
 
 
 ## 🛠️ Technical Skills  
@@ -54,10 +49,10 @@ I am a **Data Scientist at Tesla Inc.** with **3+ years of experience** deliveri
 
 ## 📬 Connect with Me  
 
-- **Email:** [pragatinaikare241@gmail.com](mailto:pragatinaikare241@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/pragatin](https://www.linkedin.com/in/pragatin/)  
-- **GitHub:** [github.com/pragatinaikare](https://github.com/pragatinaikare)  
-- **Portfolio:** [Website](https://pragatinaikare.wixsite.com/website-2)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PragatiNaikare-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatin/)  
+[![GitHub](https://img.shields.io/badge/GitHub-pragatinaikare-black?logo=github)](https://github.com/pragatinaikare)  
+[![Email](https://img.shields.io/badge/Email-pragatinaikare241%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pragatinaikare241@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=google-chrome&logoColor=black)](https://pragatinaikare.wixsite.com/website-2)
 
 ---
 ⭐️ *Always open to collaborations in ML, GenAI, and supply chain AI applications!*  
